@@ -1,6 +1,6 @@
 # Power-BI
 
-These are the few examples of Power BI when I started to learn it.
+These are the few examples of Power BI with the dummy data.
 I hope you find it interesting.
-And feel free to ask any questions if you encounter any.
+And feel free to ask questions if you encounter any.
 Thank You :)
